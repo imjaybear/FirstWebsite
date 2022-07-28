@@ -1,0 +1,49 @@
+html{
+  background-color: #212529
+}
+
+h1{
+  color: #15616d;
+  font-family: 'Teko', sans-serif;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  text-decoration: underline;
+}
+
+h2{
+  font-family:'Teko', sans-serif;
+  font-size: 35px;
+  color: #15616d;
+  text-decoration: underline;
+  text-align: center;
+  padding-top: 0;
+  padding-right: 30px;
+  padding-left: 30px;
+  
+}
+h3{
+  font-family:'Teko', sans-serif;
+  color: #15616d;
+  font-size: 35px ;
+  text-decoration: bold;
+  text-align: center;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  
+}
+
+p{
+  font-family:'Teko', sans-serif;
+  color: #15616d;
+  font-size: 18px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300;
+}
