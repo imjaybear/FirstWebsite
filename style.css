@@ -3,7 +3,7 @@ html{
 }
 
 h1{
-  color: #15616d;
+  color: #FFFFFF;
   font-family: 'Teko', sans-serif;
   text-align: center;
   height: 100%;
@@ -14,7 +14,7 @@ h1{
 h2{
   font-family:'Teko', sans-serif;
   font-size: 35px;
-  color: #15616d;
+  color: #FFFFFF;
   text-decoration: underline;
   text-align: center;
   padding-top: 0;
@@ -24,7 +24,7 @@ h2{
 }
 h3{
   font-family:'Teko', sans-serif;
-  color: #15616d;
+  color: #FFFFFF;
   font-size: 35px ;
   text-decoration: bold;
   text-align: center;
@@ -36,7 +36,7 @@ h3{
 
 p{
   font-family:'Teko', sans-serif;
-  color: #15616d;
+  color: #FFFFFF;
   font-size: 18px;
   text-align: center;
 }
